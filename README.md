@@ -1,4 +1,4 @@
-# Uzi2.1
+# Uzi2.2
 
 This repo contains unpacked browser files.
 
